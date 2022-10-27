@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FictitiousLanguage.ClassLib", "FictitiousLanguage.ClassLib\FictitiousLanguage.ClassLib.csproj", "{DC7A5D30-3506-4DA2-BA4B-A9F55297A047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FictitiousLanguage.Tests", "FictitiousLanguage.Tests\FictitiousLanguage.Tests.csproj", "{CDAE9FF3-1560-4E8C-A0EC-3625A45AE792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FictitiousLanguage.Repl.Wasm", "FictitiousLanguage.Repl.Wasm\FictitiousLanguage.Repl.Wasm.csproj", "{4CCBD2A1-2C8E-4D60-8FD2-450469F5B908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7A5D30-3506-4DA2-BA4B-A9F55297A047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7A5D30-3506-4DA2-BA4B-A9F55297A047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7A5D30-3506-4DA2-BA4B-A9F55297A047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7A5D30-3506-4DA2-BA4B-A9F55297A047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDAE9FF3-1560-4E8C-A0EC-3625A45AE792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAE9FF3-1560-4E8C-A0EC-3625A45AE792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAE9FF3-1560-4E8C-A0EC-3625A45AE792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAE9FF3-1560-4E8C-A0EC-3625A45AE792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCBD2A1-2C8E-4D60-8FD2-450469F5B908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCBD2A1-2C8E-4D60-8FD2-450469F5B908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCBD2A1-2C8E-4D60-8FD2-450469F5B908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCBD2A1-2C8E-4D60-8FD2-450469F5B908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
